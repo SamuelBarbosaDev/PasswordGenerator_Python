@@ -1,4 +1,20 @@
 # Password Generator Python
+## Ambiente virtual e Dependências:
+Criando ambiente virtual:
+```
+python3 -m venv core/venv
+```
+
+Entrando no ambiente virtual:
+```
+source core/venv/bin/activate
+```
+
+Instale as dependências:
+```
+pip install -r core/requirements.txt
+```
+
 ## Objetivo:
 Criar uma gerador de senhas forte.
 
